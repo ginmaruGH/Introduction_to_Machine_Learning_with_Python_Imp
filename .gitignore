@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+ml_env/
+support/
+memo.md
+workspace.code-workspace
