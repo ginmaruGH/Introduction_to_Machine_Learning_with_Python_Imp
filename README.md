@@ -31,8 +31,9 @@
 - Ch.15 教師なし学習2：クラスタリング
 - Ch.16 まだまだ広がる機械学習の世界
 
+## Appendix
 
-- Appendix-B エラー解決・虎の巻
-- Appendix-C Pandas虎の巻
-- Appendix-D 機械学習の数学（基礎編）
-- Appendix-E 最小二乗法の数学理論に挑戦
+- B エラー解決・虎の巻
+- C Pandas虎の巻
+- D 機械学習の数学（基礎編）
+- E 最小二乗法の数学理論に挑戦
